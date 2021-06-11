@@ -1,0 +1,12 @@
+ul li {
+  list-style: none;
+  padding-top: 40%;
+  padding-bottom: 40%;
+}
+ul li i {
+  font-size: 30px;
+  color: #fff;
+}
+.sidebar {
+  height: 100vh;
+}

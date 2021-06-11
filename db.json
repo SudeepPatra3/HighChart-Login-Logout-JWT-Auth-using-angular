@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "email": "shashi@percoyo.com",
+      "password": "$2a$10$chZGDg0Jfw/4yo/DKqwWPep4ZdBFWZLeX1pJcNID7ZqSMvKuup25C",
+      "id": 1
+    },
+    {
+      "email": "s@g.com",
+      "password": "$2a$10$w9AjxMoWIAYOLgGZxyIepOj4aRYI6fvOq6Wao/k860effa4ny4d8q",
+      "id": 2
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "$2a$10$QsJzIbVlPKXsmoSZ3EkIEOIIVVJGe8BAtLyABKKoiUh2vboW3D8CK",
+      "id": 3
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$x2ZEeLaPsJjD3krUkH1SceKu85E7M/NEtlPqz7sqZy9St.7tNvBuS",
+      "id": 4
+    },
+    {
+      "email": "iii@gmail.com",
+      "password": "$2a$10$gaR6lX8pFbIynabyiJ0XneSYylcLdmmfgSC1HidC6S//DBkzrvgFS",
+      "id": 5
+    },
+    {
+      "email": "jjj@gmail.ck",
+      "password": "$2a$10$qM7KS0mTi0cQOPGYYKuxc.XThNtQ3ml.Z.wsMfbiAzFJ1u8wuJ75i",
+      "id": 6
+    },
+    {
+      "email": "sudep@percoyo.com",
+      "password": "$2a$10$DOm.WmvXI2OjC9ZRp/0tcOcDC4arYlxkVC8q0gBdEIRsvlYNwAuPK",
+      "id": 7
+    },
+    {
+      "email": "sudp@percoyo.com",
+      "password": "$2a$10$46ukQRHRXX1L5DLw7ApKXebjrBz0wtBXr42T2pFvZ0zf6/QEv37fC",
+      "id": 8
+    },
+    {
+      "email": "sudeeumar.patra3@gmail.com",
+      "password": "$2a$10$0zr3x4EOqsRkJwKihQnh/.j31n/G45kILsrIF4nJ/UVCWsxmJ7qBq",
+      "id": 9
+    },
+    {
+      "email": "rinku@gmail.com",
+      "password": "$2a$10$5TIAAx8xR5LcTGG4.D3eTO885Ye9IbXSdjUZf3ZYz.teaIF3BSmYK",
+      "id": 10
+    },
+    {
+      "email": "rinki@gmail.com",
+      "password": "$2a$10$Hqlw2wZtSHcwJD43mj0S5eUc8bpeQdqoE/P8JTCmLRa4HePddPOoC",
+      "id": 11
+    }
+  ],
+  "data": [
+    {
+      "id": 340
+    },
+    {
+      "id": 190
+    },
+    {
+      "id": 934
+    },
+    {
+      "id": 268
+    },
+    {
+      "id": 824
+    },
+    {
+      "id": 239
+    },
+    {
+      "id": 109
+    },
+    {
+      "id": 712
+    },
+    {
+      "id": 429
+    },
+    {
+      "id": 498
+    }
+  ],
+  "pie": [
+    {
+      "name": "html",
+      "y": 21.41
+    },
+    {
+      "name": "css",
+      "y": 11.84
+    },
+    {
+      "name": "bootstrap",
+      "y": 10.85
+    },
+    {
+      "name": "javascript",
+      "y": 4.67
+    },
+    {
+      "name": "angular",
+      "y": 4.18
+    },
+    {
+      "name": "vue",
+      "y": 1.64
+    }
+  ],
+  "register": [
+    {
+      "id": 1,
+      "email": "xyz@gmail.com",
+      "password": "xyz"
+    },
+    {
+      "email": "test@percoyo.com",
+      "password": "test",
+      "id": 2
+    },
+    {
+      "email": "test@percoyo.com",
+      "password": "test",
+      "id": 3
+    }
+  ]
+}
